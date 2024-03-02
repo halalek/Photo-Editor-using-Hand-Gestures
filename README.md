@@ -21,6 +21,7 @@ and finally implementing some transformations on the image based on specific mov
 • A video is entered via the computer camera that includes hand movement
 
 • The possibility of performing some geometric transformations on an image through hand movements
+
 That is (Translate - Rotate - Scale - Warp - Skew)
 
 • The ability to draw on the image and modify it through specific movements
