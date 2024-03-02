@@ -75,3 +75,9 @@ The movement of the hand is tracked by drawing certain points on the hand, such 
 
 
 
+
+
+https://github.com/halalek/Photo-Editor-using-Hand-Gestures/assets/112726630/74aa2f01-6831-4eb1-b5d0-8f2eea526ec7
+
+
+
