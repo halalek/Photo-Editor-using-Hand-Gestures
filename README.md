@@ -19,10 +19,14 @@ and finally implementing some transformations on the image based on specific mov
 ## The method of work:
 ### 1-On the user side:
 • A video is entered via the computer camera that includes hand movement
+
 • The possibility of performing some geometric transformations on an image through hand movements
 That is (Translate - Rotate - Scale - Warp - Skew)
+
 • The ability to draw on the image and modify it through specific movements
+
 (Erase the drawing with the Eraser Tool - Change the size of the Brush Tool/Eraser Tool - Change the color of the Brush Tool/Eraser Tool)
+
 • Possibility of saving the image
 
                
@@ -32,9 +36,13 @@ That is (Translate - Rotate - Scale - Warp - Skew)
 
    ### 2-From the algorithm side:
 • Identify the shape of the hand from the video
+
 • Recognizing hand movement
-• - The ability to draw a group of dots that express the process of recognizing a position or gesture.
+
+• The ability to draw a group of dots that express the process of recognizing a position or gesture.
+
 • Possibility of tracking hand position.
+
 • Executing user commands such as geometry and drawing transformations and applying them to the image
 
 
